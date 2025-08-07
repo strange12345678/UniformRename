@@ -23,15 +23,15 @@ Daily Upload limit 100GB
 Price Rs 179  ind /🌎 2.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>madflixofficial@axl</code>
-<b>➜ PayPal :</b> <a href='https://www.paypal.me/jishudeveloper'>Click Here</a>
-<b>➜ QR Code :</b> <a href='https://telegra.ph/QR-Payment-07-24-4'>Click Here</a>
+<b>➜ UPI ID :</b> <code>7384550263@fam</code>
+<b>➜ PayPal :</b> <a href='https://i.ibb.co/ndPtK0m/photo-2025-06-27-11-00-21-7535897897565421584.jpg'>Click Here</a>
+<b>➜ QR Code :</b> <a href='https://i.ibb.co/ndPtK0m/photo-2025-06-27-11-00-21-7535897897565421584.jpg'>Click Here</a>
 
-After Payment Send Screenshots Of Payment To Admin @MadflixOfficials"""
+After Payment Send Screenshots Of Payment To Admin @darkworld008"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/calladminrobot"),
-        InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
+        [InlineKeyboardButton("🥵 Admin", url = "https://t.me/darkworld008"),
+        InlineKeyboardButton("❌️ Cancel", callback_data="cancel")]
         ])
     
     await update.message.edit(text = text,reply_markup = keybord, disable_web_page_preview=True)
@@ -57,15 +57,15 @@ Daily Upload limit 100GB
 Price Rs 179  ind /🌎 2.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>madflixofficial@axl</code>
-<b>➜ PayPal :</b> <a href='https://www.paypal.me/jishudeveloper'>Click Here</a>
-<b>➜ QR Code :</b> <a href='https://telegra.ph/QR-Payment-07-24-4'>Click Here</a>
+<b>➜ UPI ID :</b> <code>7384550263@fam</code>
+<b>➜ PayPal :</b> <a href='https://i.ibb.co/ndPtK0m/photo-2025-06-27-11-00-21-7535897897565421584.jpg'>Click Here</a>
+<b>➜ QR Code :</b> <a href='https://i.ibb.co/ndPtK0m/photo-2025-06-27-11-00-21-7535897897565421584.jpg'>Click Here</a>
 
-After Payment Send Screenshots Of Payment To Admin @MadflixOfficials"""
+After Payment Send Screenshots Of Payment To Admin @darkworld008"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/calladminrobot"),
-        InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
+        [InlineKeyboardButton("🥵 Admin", url = "https://t.me/darkworld008"),
+        InlineKeyboardButton("❌️ Cancel", callback_data="cancel")]
         ])
     
     await message.reply_text(text=text, reply_markup=keybord, quote=True, disable_web_page_preview=True)
