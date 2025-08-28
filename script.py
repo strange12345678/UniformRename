@@ -26,7 +26,7 @@ class script(object):
 <b>♻️ Bot Made By :</b> @darkworld008"""
 
     DONATE_TXT = """
-<b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
+<b>🥲 Thanks For Showing Interest In Donation!! ❤️</b>
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
