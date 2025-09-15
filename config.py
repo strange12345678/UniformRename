@@ -38,9 +38,9 @@ START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d
 # Token Verification Adding Features Is Paid So If You Want Then Dm Me
 
 
- SHORTNER_URL = os.environ.get("SHORTNER_URL", "arolinks.com")
- SHORTNER_API = os.environ.get("SHORTNER_API", "e03de6ce8ad141281beeac664e1adbf3f011a8f9")
- TOKEN_TIMEOUT = os.environ.get("TOKEN_TIMEOUT", "120")
+ #SHORTNER_URL = os.environ.get("SHORTNER_URL", "arolinks.com")
+ #SHORTNER_API = os.environ.get("SHORTNER_API", "e03de6ce8ad141281beeac664e1adbf3f011a8f9")
+ #TOKEN_TIMEOUT = os.environ.get("TOKEN_TIMEOUT", "120")
 
 
 
